@@ -8,7 +8,7 @@ permalink: /
 
 # Introduction
 
-Welcome! The purpose of this document is to guide you on how to started with customizing your discord server!
+> Welcome! The purpose of this document is to guide you on how to started with customizing your discord server!
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
