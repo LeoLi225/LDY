@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Typography
+title: Leo
 nav_order: 16
 ---
 
