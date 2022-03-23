@@ -15,7 +15,7 @@ permalink: /
 
 ---
 
-## Getting started
+## Intended Users
 
 ### Dependencies
 
