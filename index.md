@@ -19,3 +19,9 @@ This documentation is targeted at the following users:
 * Software development teams who are looking to customize their discord server to better fit their use.
 
 
+## Prerequisite Knowledge
+The documentation assumes the following of the user:
+* The user has already installed Discord on their local machine.
+* The user has an existing and working account with discord.
+* It is expected that the user has configured a server for their use.
+
