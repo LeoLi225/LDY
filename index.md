@@ -42,7 +42,7 @@ The documentation assumes the following of the user:
 <!-- | :heavy_exclamation_mark:  | Danger! | The exclmation mark symbol will be used to warn the user's of any errors that may occur.  | -->
 | Symbol | Message | Explanation |
 | ------------- | ------------- | ------------- |
-| :heavy_exclamation_mark:  | Danger! | The exclmation mark symbol will be used to warn the user's of any errors that may occur.  |
+| :heavy_exclamation_mark:  | Danger! | The exclmation mark symbol will be used to warn the user's of any errors that may occur.  | 
 | :no_entry_sign: | Fail! | The no entry sign symbol will be used to indicate the user that they have may have failed to complete their intended task. |
 | :bulb: | Important! | This symbol will be used in this documentation to represent information that may be useful to the user. |
 | :smiley: | Success! | This symbol will be used to indicate the user has successfully completed the task. |
