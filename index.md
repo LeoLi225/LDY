@@ -37,11 +37,11 @@ It is used a lot by online game lovers based on its excellent performance and si
 ## Procedure Overview
 * Task 1
 * Task 2
-* Task 3
+* Task 3 
 
 ## Notes and Warning Messages
 
-:heavy_exclamation_mark:          danger <br />
-:no_entry_sign: Fail <br />
-:bulb:   Important! <br />
-:white_check_mark:   success
+:heavy_exclamation_mark:          Danger <br />  The exclmation mark symbol will be used to warn the user's of any errors that may occur.
+:no_entry_sign: Fail <br /> The no entry sign symbol will be used to indicate the user that they have may have failed to complete their intended task.
+:bulb:   Important! <br /> This symbol will be used in this documentation to represent information that may be useful to the user.
+:white_check_mark:   Success This symbol will be used to indicate the user has successfully completed the task.
