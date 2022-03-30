@@ -30,7 +30,5 @@ The documentation assumes the following of the user:
 
 ## Procedure Overview
 
-## Typographical Conventions
-
 ## Notes and Warning Messages
 
