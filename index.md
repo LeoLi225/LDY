@@ -8,7 +8,7 @@ permalink: /
 
 # Introduction
 Welcome! The purpose of this document is to guide you on customizing your discord server!
->Brief history : 
+>Brief history : <br / >
 >Discord is an instant messenger that supports voice, chat and video calls. It was released in May 2015 to support Fates Forever, a mobile MOBA game.
 >It is used a lot by online game lovers based on its excellent performance and simplicity. It has succeeded in becoming the mainstream, beating several >voice messengers that game players used before. It is a must-have for game players.
 
@@ -38,12 +38,11 @@ The documentation assumes the following of the user:
 
 ## Notes and Warning Messages
 
-| :heavy_exclamation_mark:  | Danger! |
-| ------------- | ------------- |
-|   | The exclmation mark symbol will be used to warn the user's of any errors that may occur.  |
+| :heavy_exclamation_mark:  | Danger! | The exclmation mark symbol will be used to warn the user's of any errors that may occur.  |
+| :no_entry_sign: | Fail! | The no entry sign symbol will be used to indicate the user that they have may have failed to complete their intended task. |
 
-:heavy_exclamation_mark: Danger!<br /> 
-The exclmation mark symbol will be used to warn the user's of any errors that may occur. <br /> 
+
+
 :no_entry_sign: Fail! The no entry sign symbol will be used to indicate the user that they have may have failed to complete their intended task. <br /> 
 :bulb:   Important! This symbol will be used in this documentation to represent information that may be useful to the user.<br /> 
 :white_check_mark: Success !This symbol will be used to indicate the user has successfully completed the task.<br /> 
