@@ -4,5 +4,5 @@ title: Task 3
 nav_order: 16
 ---
 
-# Task 3
+# Task 3 - How to add and use a discord Bot
 
