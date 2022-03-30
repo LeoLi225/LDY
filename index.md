@@ -35,7 +35,7 @@ The documentation assumes the following of the user:
 
 ## Notes and Warning Messages
 
-!!! danger
-!!! warning
-!!! Info
-!!! success
+!!! danger\n
+!!! warning\n
+!!! Info\n
+!!! success\n
