@@ -35,7 +35,7 @@ The documentation assumes the following of the user:
 
 ## Notes and Warning Messages
 
-!!! danger
+:sunglasses: danger 
 :no_entry_sign: Fail
 !!! Info
 !!! success
