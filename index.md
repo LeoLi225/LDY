@@ -26,6 +26,7 @@ The documentation assumes the following of the user:
 * It is expected that the user has configured a server for their use.
 
 ## Software Requirments
+* lastest version of [**Discord**](https://discord.com/download) is required.
 
 ## Procedure Overview
 
