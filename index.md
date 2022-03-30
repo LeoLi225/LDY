@@ -36,6 +36,6 @@ The documentation assumes the following of the user:
 ## Notes and Warning Messages
 
 !!! danger
-!!! warning
+:no_entry_sign: Fail
 !!! Info
 !!! success
