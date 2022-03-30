@@ -9,6 +9,7 @@ permalink: /
 # Introduction
 Welcome! The purpose of this document is to guide you on customizing your discord server!
 >Brief history : <br />
+><br />
 >Discord is an instant messenger that supports voice, chat and video calls. It was released in May 2015 to support Fates Forever, a mobile MOBA game.
 >It is used a lot by online game lovers based on its excellent performance and simplicity. It has succeeded in becoming the mainstream, beating several voice messengers that game players used before. It is a must-have for game players.
 
