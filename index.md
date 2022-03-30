@@ -14,9 +14,9 @@ permalink: /
 
 ## Intended Users
 This documentation is targeted at the following users:
-
-* Beginner to intermediate developers who are looking to customize their discord servers.
-* Software development teams who are looking to customize their discord server to better fit their use.
+* Users who are beginners.
+* Software development teams who are looking to migrate to Discord.
+* Small businesses looking for an alternative to discord.
 
 
 ## Prerequisite Knowledge
