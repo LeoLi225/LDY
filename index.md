@@ -39,6 +39,8 @@ The documentation assumes the following of the user:
 ## Notes and Warning Messages
 
 | :heavy_exclamation_mark:  | Danger! | The exclmation mark symbol will be used to warn the user's of any errors that may occur.  |
+<br />
+
 | ------------- | ------------- | ------------- |
 | :no_entry_sign: | Fail! | The no entry sign symbol will be used to indicate the user that they have may have failed to complete their intended task. |
 | ------------- | ------------- | ------------- |
