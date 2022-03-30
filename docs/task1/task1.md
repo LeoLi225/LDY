@@ -17,4 +17,5 @@ Discord servers in a nut-shell are spaces for people to talk and hang out in. Di
 
 # How do I create my own Server?
 
-![ServerMenu](https://user-images.githubusercontent.com/65834553/160926953-91ed351e-0984-4711-83ae-b4be84801d18.png "ServerMenu")
+![createServerMenu](https://user-images.githubusercontent.com/65834553/160931932-9e9b162d-9b9b-4bdc-81bb-724225d7482f.png "CreateServerMenu")
+
