@@ -25,3 +25,11 @@ The documentation assumes the following of the user:
 * The user has an existing and working account with discord.
 * It is expected that the user has configured a server for their use.
 
+## Software Requirments
+
+## Procedure Overview
+
+## Typographical Conventions
+
+## Notes and Warning Messages
+
