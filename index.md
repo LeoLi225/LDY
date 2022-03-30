@@ -34,8 +34,8 @@ The documentation assumes the following of the user:
 ## Procedure Overview
 * Task 1 - How to create a server.
 * Task 2 - Adding customized roles on the servers.
-* Task 4 - Configuring role priviledges on the server.
-* Task 3 - Create custom emojis.
+* Task 3 - Configuring role priviledges on the server.
+* Task 4 - Create custom emojis.
 
 ## Notes and Warning Messages
 
