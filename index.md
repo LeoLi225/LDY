@@ -7,9 +7,8 @@ permalink: /
 ---
 
 # Introduction
+Welcome! The purpose of this document is to guide you on customizing your discord server!
 
-> Welcome! The purpose of this document is to guide you on customizing your discord server!
-{: .fs-6 .fw-300 }
 ---
 
 ## Intended Users
