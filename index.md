@@ -37,5 +37,5 @@ The documentation assumes the following of the user:
 
 :heavy_exclamation_mark: danger <br />
 :no_entry_sign: Fail <br />
-!!! Important! <br />
+:bulb: Important! <br />
 :white_check_mark: success
