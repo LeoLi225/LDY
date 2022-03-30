@@ -32,9 +32,10 @@ The documentation assumes the following of the user:
 * lastest version of [**Discord**](https://discord.com/download) is required.
 
 ## Procedure Overview
-* Task 1
-* Task 2
-* Task 3 
+* Task 1 - How to create a server.
+* Task 2 - Adding customized roles on the servers.
+* Task 4 - Configuring role priviledges on the server.
+* Task 3 - Create custom emojis.
 
 ## Notes and Warning Messages
 
