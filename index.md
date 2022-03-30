@@ -35,7 +35,7 @@ The documentation assumes the following of the user:
 
 ## Notes and Warning Messages
 
-:sunglasses: danger 
+:heavy_exclamation_mark: danger 
 :no_entry_sign: Fail
 !!! Info
-!!! success
+:white_check_mark: success
