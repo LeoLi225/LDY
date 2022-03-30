@@ -29,6 +29,9 @@ The documentation assumes the following of the user:
 * lastest version of [**Discord**](https://discord.com/download) is required.
 
 ## Procedure Overview
+* Task 1
+* Task 2
+* Task 3
 
 ## Notes and Warning Messages
 
