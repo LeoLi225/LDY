@@ -17,7 +17,7 @@ Welcome! The purpose of this document is to guide you on customizing your discor
 
 ## Intended Users
 This documentation is targeted at the following users:
-* Users who are beginners.
+* Users who are unfamiliar with additional features of discord.
 * Software development teams who are looking to migrate to Discord.
 * Small businesses looking for an alternative to slack.
 
