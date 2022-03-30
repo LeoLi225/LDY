@@ -36,6 +36,6 @@ The documentation assumes the following of the user:
 ## Notes and Warning Messages
 
 :heavy_exclamation_mark: danger <br />
-:no_entry_sign: || Fail <br />
+:no_entry_sign: | | Fail <br />
 :bulb:   Important! <br />
 :white_check_mark:   success
