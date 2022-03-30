@@ -38,10 +38,9 @@ The documentation assumes the following of the user:
 
 ## Notes and Warning Messages
 
-| :heavy_exclamation_mark  | Danger! |
+| :heavy_exclamation_mark:  | Danger! |
 | ------------- | ------------- |
-| The exclmation mark symbol will be used to warn the user's of any errors that may occur.  |
-| Content Cell  | Content Cell  |
+|   | The exclmation mark symbol will be used to warn the user's of any errors that may occur.  |
 
 :heavy_exclamation_mark: Danger!<br /> 
 The exclmation mark symbol will be used to warn the user's of any errors that may occur. <br /> 
