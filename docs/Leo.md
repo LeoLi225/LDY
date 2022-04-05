@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Task 3
+title: Task 3 - How to Add/Use Discord Bot
 nav_order: 16
 ---
 
@@ -16,7 +16,7 @@ nav_order: 16
 
 ![homepage](https://user-images.githubusercontent.com/90579221/161686582-252cb412-3047-4820-95e2-f14eb6e7ba25.png)
 ### **1-1. Create Discord Server**
-First, you need a server with administrator privileges to add the Discord bot. Click Add Server. If you have an already created server, you can start from 1-4.
+##### First, you need a server with administrator privileges to add the Discord bot. Click Add Server. If you have an already created server, you can start from 1-4.
 
 
 ![server1](https://user-images.githubusercontent.com/90579221/161687236-7377e42a-cbbe-44af-abb9-0a591733a9a7.png)
@@ -24,4 +24,11 @@ First, you need a server with administrator privileges to add the Discord bot. C
 ##### 1. You can set by uploading a representative image of the Discord server.
 ##### 2. Enter the name of your Discord server.
 ##### 3. Click Create to create a Discord Server.
+
+
+### 1-3. Check Discord Server Administrator Privileges
+##### First, access the voice channel. You can only add Discord bots to servers that have a crown next to their name on the Discord server.
+
+
+
 
