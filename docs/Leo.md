@@ -62,8 +62,9 @@ nav_order: 16
 >[More commands](https://www.streamscheme.com/discord-commands/)
 
 ### **2-2. Discord Bot Command Input**
-##### If you have something to leave discord for a while. You can enter "?afk" to set an AFK status to display when you are mentioned.
-![test](https://user-images.githubusercontent.com/90579221/161698194-70f6b033-7b43-4ed2-b0b7-7ea1e0e1cf01.png)
+##### By using MEE6's shortcut commands,, we can search for videos on youtube, search for words in Urban dictionary, search for manga on Kitsu.io and so on.
+![test123](https://user-images.githubusercontent.com/90579221/161702869-5fac4d8f-8540-4f83-95e6-44f01e96e1c7.png)
+
 
 ### **2-3. More fun commands**
 ##### 
