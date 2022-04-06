@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Task 2 - Make a Bot using Python
-nav_order: 17
+nav_order: 19
 has_children: true
 permalink: docs/Task 2 - Make a Bot using Python
 ---
