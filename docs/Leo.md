@@ -68,22 +68,22 @@ nav_order: 17
 
 ### **2-3. More fun commands**
 ##### Go to [MEE6 website page](https://mee6.xyz/dashboard/956291310040539177). We can see that a lot of features for our bot can be set up here and implemented in our server. Below we show how to create reaction roles in our server. 
-##### 1.Firstly, find "Reaction Roles" in the left navbar and click the "+" button to add reaction roles to our server members.
+##### 1. Firstly, find "Reaction Roles" in the left navbar and click the "+" button to add reaction roles to our server members.
 ![2](https://user-images.githubusercontent.com/90579221/161902556-0ac99589-254b-4aec-b1a1-9c1763c71af7.png)
 
-##### 2.After that, enter the title, messages and ect that you want to display.
+##### 2. After that, enter the title, messages, color, author and photo that you want to display.
 ![tittle](https://user-images.githubusercontent.com/90579221/162063100-419f748f-6c86-46f6-a79e-3017c2113242.png)
 
-##### 3.The next step is to add the reaction emoji and role names (Below picture aleady given two reaction).
+##### 3. The next step is to add the reaction emoji and role names (Below picture aleady given two reaction).
 ![reaction](https://user-images.githubusercontent.com/90579221/162062451-8c0cdf44-ea76-4e79-805b-3d0211bd05a3.png)
 
-##### 4.When you have finished all the settings, choose the channel you want to send and click the save button. 
+##### 4. When you have finished all the settings, choose the channel you want to send and click the save button. 
 ![5](https://user-images.githubusercontent.com/90579221/162061233-3c7982fd-6d8e-49d7-a0d3-533602fac1f3.png)
 
-##### 5.Finnaly, the question will be automatically generated in the channel.
+##### 5. Finnaly, the question will be automatically generated in the channel.
 ![question](https://user-images.githubusercontent.com/90579221/161904725-61f783db-5d86-4ab3-86ef-d88eb9339abe.png)
 
-##### 6.When a member selects an emoji, the member's role will be assigned to this group.
+##### 6. When a member selects an emoji, the member's role will be assigned to this group.
 ![role](https://user-images.githubusercontent.com/90579221/161905084-aaf56d10-7449-4ad2-81e0-30395d8a2af8.png)
 
 
