@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Task 1 - Server Creation and Adding Custom Emojis
+title: Task 1 - Server Creation
 nav_order: 16
 has_children: false
 permalink: /docs/task1
