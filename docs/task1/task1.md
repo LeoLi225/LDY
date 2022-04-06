@@ -12,10 +12,10 @@ permalink: /docs/task1
 >The goal of this section will be to show and explain how server creation and customization of the server.
 
 
-# What are Servers?
+# What are Servers
 Discord servers in a nut-shell are spaces for people to talk and hang out in. Discord is widely used by small groups of people who actively chat with each other. It is important to note that each server, is an invite - only community. However, there are also larget communities that are focused on specific topics such as programming and travel.
 
-# How do I create a Server as a new User??
+# How do I create a Server as a new User
 
 Upon logging into Discord after creating a new account, you will be prompted with the following image.
   ![new_account_create_server](https://user-images.githubusercontent.com/65834553/161900371-3ea2bf77-24de-4451-8d2d-a8873f47c5c4.jpg "CreateServerMenu")
