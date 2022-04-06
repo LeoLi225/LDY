@@ -40,3 +40,8 @@ Upon logging into Discord after creating a new account, you will be prompted wit
 
 **8.**  Once you see something similar to this image on your screen! You have successfully created the server!
    😃 ![success!](https://user-images.githubusercontent.com/65834553/161936494-4a7db67b-1d83-42bc-81fd-e029973c1a73.jpg "Server Success!") 😃
+   
+# Conclusion
+> After completing this section. You will have the ability to complete the following:
+* 😃 Creating your own server!
+* 😃 Adding an logo to your server!
