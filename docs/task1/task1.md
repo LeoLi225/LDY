@@ -31,15 +31,15 @@ Upon logging into Discord after creating a new account, you will be prompted wit
   
     ![furtherCustomization](https://user-images.githubusercontent.com/65834553/161903342-d61c9b48-6823-41b7-b739-b9d8f1790ebf.jpg "More customization")
     
-    If you wish to set an image to your server. Click on select on the upload area with the camera icon.
+4.  If you wish to set an image to your server. Click on select on the upload area with the camera icon.
     
     ![Upload Photo](https://user-images.githubusercontent.com/65834553/161905195-69665fd6-bf93-4db5-b5f5-7cd679cf4f39.jpg "Upload a photo")
     
-4.  Upon clicking the upload. It will then prompt you to select a file from your Computer.
+5.  Upon clicking the upload. It will then prompt you to select a file from your Computer.
     
     ![selectimagev1](https://user-images.githubusercontent.com/65834553/161908517-b4d041dc-6236-47e6-9c33-602d07160d4f.jpg "Select Image")
     
-5.  Once selecting your image. The upload photo section will turn into the image you have selected.
+6.  Once selecting your image. The upload photo section will turn into the image you have selected.
     
   > Congratulations you have successfully uploaded an image to your server. 😃
   >  ![Upload Photo](https://user-images.githubusercontent.com/65834553/161909264-e84b6308-16f3-46c7-b453-478c6322497a.jpg)  ![happyfacenow](https://user-images.githubusercontent.com/65834553/161909273-b5c7e8f7-b534-4ddb-a9b5-0c4b4bdc792d.jpg)
