@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-1. Ready to programming for discord
+title: 2-1. Server Creation.
 parent: Task 3 - Create your own Discord Bot using Python
 ---
 
