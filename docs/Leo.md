@@ -15,7 +15,7 @@ nav_order: 17
 ## **1. Create a Discord Administrator Bot**
 
 ### **1-1. Create Discord Server**
-##### First, you need a server with administrator privileges to add the Discord bot. Click Add Server. If you have an already created server, you can start from [1-4](https://https://github.com/LeoLi225/LDY/edit/gh-pages/docs/Leo#L34).
+##### First, you need a server with administrator privileges to add the Discord bot. Click Add Server. If you have an already created server, you can start from [1-4](https://github.com/LeoLi225/LDY/edit/gh-pages/docs/Leo#L34).
 ![homepage](https://user-images.githubusercontent.com/90579221/161686582-252cb412-3047-4820-95e2-f14eb6e7ba25.png)
 
 
@@ -68,22 +68,22 @@ nav_order: 17
 
 ### **2-3. More fun commands**
 ##### Go to [MEE6 website page](https://mee6.xyz/dashboard/956291310040539177). We can see that a lot of features for our bot can be set up here and implemented in our server. Below we show how to create reaction roles in our server. 
-##### Firstly, find "Reaction Roles" in the left navbar and click the "+" button to add reaction roles to our server members.
+##### 1.Firstly, find "Reaction Roles" in the left navbar and click the "+" button to add reaction roles to our server members.
 ![2](https://user-images.githubusercontent.com/90579221/161902556-0ac99589-254b-4aec-b1a1-9c1763c71af7.png)
 
-##### After that, enter the title and messages for the reaction roles.
-![tittle](https://user-images.githubusercontent.com/90579221/161904541-05b48278-4e29-4334-a328-e52959e2e687.png)
+##### 2.After that, enter the title, messages and ect that you want to display.
+![tittle](https://user-images.githubusercontent.com/90579221/162063100-419f748f-6c86-46f6-a79e-3017c2113242.png)
 
-##### The next step is to add the reaction emoji and role names.
-![reaction](https://user-images.githubusercontent.com/90579221/161904545-0aa00bc9-e77c-4297-a640-67b66189f091.png)
+##### 3.The next step is to add the reaction emoji and role names (Below picture aleady given two reaction).
+![reaction](https://user-images.githubusercontent.com/90579221/162062451-8c0cdf44-ea76-4e79-805b-3d0211bd05a3.png)
 
-##### When you have finished all the settings, choose the channel you want to send and click the save button. 
+##### 4.When you have finished all the settings, choose the channel you want to send and click the save button. 
 ![5](https://user-images.githubusercontent.com/90579221/162061233-3c7982fd-6d8e-49d7-a0d3-533602fac1f3.png)
 
-##### Finnaly, the question will be automatically generated in the channel.
+##### 5.Finnaly, the question will be automatically generated in the channel.
 ![question](https://user-images.githubusercontent.com/90579221/161904725-61f783db-5d86-4ab3-86ef-d88eb9339abe.png)
 
-##### When a member selects an emoji, the member's role will be assigned to this group.
+##### 6.When a member selects an emoji, the member's role will be assigned to this group.
 ![role](https://user-images.githubusercontent.com/90579221/161905084-aaf56d10-7449-4ad2-81e0-30395d8a2af8.png)
 
 
