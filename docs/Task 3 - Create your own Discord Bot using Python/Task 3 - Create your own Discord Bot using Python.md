@@ -20,5 +20,11 @@ Discord bots can be created using multiple languages such as Python and Node.js.
 
 To get you started, let's build a simple Discord bot using python.
 
+# Requirement
 
-* This document is intended for readers who have completed Python and PyCharm installations.
+> To add a bot on your server. You require Administrative privileges for server.
+
+# Intended Readers
+
+> This document is intended for readers who have completed Python and PyCharm installations.
+> The reader may have basic programming skills.
