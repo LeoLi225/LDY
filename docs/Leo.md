@@ -67,7 +67,8 @@ nav_order: 17
 
 
 ### **2-3. More fun commands**
-##### Go to [MEE6 website page](https://mee6.xyz/dashboard/956291310040539177). We can see that a lot of features for our bot can be set up here and implemented in our server. Click the "+" button to add reaction roles to our server members.
+##### Go to [MEE6 website page](https://mee6.xyz/dashboard/956291310040539177). We can see that a lot of features for our bot can be set up here and implemented in our server. Below we show how to create reaction roles in our server. 
+##### Firstly, find "Reaction Roles" in the left navbar and click the "+" button to add reaction roles to our server members.
 ![2](https://user-images.githubusercontent.com/90579221/161902556-0ac99589-254b-4aec-b1a1-9c1763c71af7.png)
 
 ##### After that, enter the title and messages for the reaction roles.
@@ -77,7 +78,8 @@ nav_order: 17
 ![reaction](https://user-images.githubusercontent.com/90579221/161904545-0aa00bc9-e77c-4297-a640-67b66189f091.png)
 
 ##### When you have finished all the settings, choose the channel you want to send and click the save button. 
-![5](https://user-images.githubusercontent.com/90579221/161904664-f3e050d3-d183-430a-8358-83afad2c6fca.png)
+![5](https://user-images.githubusercontent.com/90579221/162061233-3c7982fd-6d8e-49d7-a0d3-533602fac1f3.png)
+
 ##### Finnaly, the question will be automatically generated in the channel.
 ![question](https://user-images.githubusercontent.com/90579221/161904725-61f783db-5d86-4ab3-86ef-d88eb9339abe.png)
 
