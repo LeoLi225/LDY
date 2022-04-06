@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Glossay
+title: Glossary
 nav_order: 20
 ---
 
-# Glossay
+# Glossary
 | Term | Definition |
 | ------ | ------------- |
-| **Administrator** | aaa |
+| **Administrator** | A person or user that is able to manage and configure the server. |
