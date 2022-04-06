@@ -27,7 +27,7 @@ nav_order: 17
 
 
 ### **1-3. Check Discord Server Administrator Privileges**
-##### Only people with a crown next to their name or have server privileges can add discord bots to this server. If you can edit the server, prove that you have permission.
+##### Only people with a crown next to their name or have server privileges can add discord bots to this server. If you can edit the server, this proves that you have permission.
 ![home1](https://user-images.githubusercontent.com/90579221/161690553-759d6c97-76bc-4f83-97f9-251f23458042.png)
 
 
