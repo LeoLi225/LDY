@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Task 3 - How to Add/Use Discord Bot
-nav_order: 16
+nav_order: 19
 ---
 
 # **Task 3 - How to Add/Use Discord Bot**
