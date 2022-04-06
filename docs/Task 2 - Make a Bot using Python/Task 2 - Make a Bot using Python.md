@@ -3,7 +3,7 @@ layout: default
 title: Task 2 - Make a Bot using Python
 nav_order: 17
 has_children: true
-permalink: docs/utilities
+permalink: docs/Task 2 - Make a Bot using Python
 ---
 
 # Utilities
