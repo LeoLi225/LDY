@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Task 3 - How to Add/Use Discord Bot
-nav_order: 19
+title: Task 2 - How to Add/Use Discord Bot
+nav_order: 17
 ---
 
-# **Task 3 - How to Add/Use Discord Bot**
+# **Task 2 - How to Add/Use Discord Bot**
 
 >Discord is a voice chat program with many users worldwide. In addition to voice chat, you can use various functions such as multimedia and text chat, and recently, with the advent of a system called “Discord bot”, you can make Discord more colorful.
 >
@@ -67,14 +67,18 @@ nav_order: 19
 
 
 ### **2-3. More fun commands**
-##### Go to [MEE6 website page](https://mee6.xyz/dashboard/956291310040539177). We can see that a lot of features for our bot can be set up here and implemented in our server. We can add reaction roles to our server members. Click the button to create a nre reaction role.
+##### Go to [MEE6 website page](https://mee6.xyz/dashboard/956291310040539177). We can see that a lot of features for our bot can be set up here and implemented in our server. Click the "+" button to add reaction roles to our server members.
 ![2](https://user-images.githubusercontent.com/90579221/161902556-0ac99589-254b-4aec-b1a1-9c1763c71af7.png)
-##### We can choose the channel and topic we want to send to and the reaction roles for the members.
+
+##### After that, enter the title and messages for the reaction roles.
 ![tittle](https://user-images.githubusercontent.com/90579221/161904541-05b48278-4e29-4334-a328-e52959e2e687.png)
+
+##### The next step is to add the reaction emoji and role names.
 ![reaction](https://user-images.githubusercontent.com/90579221/161904545-0aa00bc9-e77c-4297-a640-67b66189f091.png)
 
-##### When you have finished all the settings, click the save button and the question will be automatically generated in the channel.
+##### When you have finished all the settings, choose the channel you want to send and click the save button. 
 ![5](https://user-images.githubusercontent.com/90579221/161904664-f3e050d3-d183-430a-8358-83afad2c6fca.png)
+##### Finnaly, the question will be automatically generated in the channel.
 ![question](https://user-images.githubusercontent.com/90579221/161904725-61f783db-5d86-4ab3-86ef-d88eb9339abe.png)
 
 ##### When a member selects an emoji, the member's role will be assigned to this group.
