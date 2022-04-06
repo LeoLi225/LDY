@@ -15,7 +15,7 @@ nav_order: 16
 ## **1. Create a Discord Administrator Bot**
 
 ### **1-1. Create Discord Server**
-##### First, you need a server with administrator privileges to add the Discord bot. Click Add Server. If you have an already created server, you can start from 1-4.
+##### First, you need a server with administrator privileges to add the Discord bot. Click Add Server. If you have an already created server, you can start from [1-4](https://github.com/LeoLi225/LDY/edit/gh-pages/docs/Leo.md#1-4-discord-bot-homepage).
 ![homepage](https://user-images.githubusercontent.com/90579221/161686582-252cb412-3047-4820-95e2-f14eb6e7ba25.png)
 
 
@@ -67,10 +67,21 @@ nav_order: 16
 
 
 ### **2-3. More fun commands**
-##### 
+##### Go to [MEE6 website page](https://mee6.xyz/dashboard/956291310040539177). We can see that a lot of features for our bot can be set up here and implemented in our server. We can add reaction roles to our server members. Click the button to create a nre reaction role.
+![2](https://user-images.githubusercontent.com/90579221/161902556-0ac99589-254b-4aec-b1a1-9c1763c71af7.png)
+##### We can choose the channel and topic we want to send to and the reaction roles for the members.
+![tittle](https://user-images.githubusercontent.com/90579221/161904541-05b48278-4e29-4334-a328-e52959e2e687.png)
+![reaction](https://user-images.githubusercontent.com/90579221/161904545-0aa00bc9-e77c-4297-a640-67b66189f091.png)
+
+##### When you have finished all the settings, click the save button and the question will be automatically generated in the channel.
+![5](https://user-images.githubusercontent.com/90579221/161904664-f3e050d3-d183-430a-8358-83afad2c6fca.png)
+![question](https://user-images.githubusercontent.com/90579221/161904725-61f783db-5d86-4ab3-86ef-d88eb9339abe.png)
+
+##### When a member selects an emoji, the member's role will be assigned to this group.
+![role](https://user-images.githubusercontent.com/90579221/161905084-aaf56d10-7449-4ad2-81e0-30395d8a2af8.png)
 
 
-
+#### As above, you can easily add and use a Discord bot by learning the commands to use the Discord bot you want to use and using the bot.
 
 
 
