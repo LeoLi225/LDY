@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Task 1 - Server Creation
-nav_order: 16
-has_children: True
-permalink: /docs/task1
+title: 3-1. Ready to programming for discord
+parent: Task 3 - Create your own Discord Bot using Python
 ---
 
 # Server Creation and Customization
