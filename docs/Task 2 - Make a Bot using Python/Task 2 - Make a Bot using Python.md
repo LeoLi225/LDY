@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Task 2 - Make a Bot using Python
+title: Task 3 - Create your own Discord Bot using Python
 nav_order: 19
 has_children: true
-permalink: docs/Task 2 - Make a Bot using Python
+permalink: docs/Task 3 - Create your own Discord Bot using Python
 ---
 
 
