@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-1. Server Creation.
+title: 2-1. Server Creation
 parent: Task 1 - Server Creation
 ---
 
