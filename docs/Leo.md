@@ -15,7 +15,7 @@ nav_order: 16
 ## **1. Create a Discord Administrator Bot**
 
 ### **1-1. Create Discord Server**
-##### First, you need a server with administrator privileges to add the Discord bot. Click Add Server. If you have an already created server, you can start from [1-4](https://github.com/LeoLi225/LDY/edit/gh-pages/docs/Leo.md#1-4-discord-bot-homepage).
+##### First, you need a server with administrator privileges to add the Discord bot. Click Add Server. If you have an already created server, you can start from 1-4.
 ![homepage](https://user-images.githubusercontent.com/90579221/161686582-252cb412-3047-4820-95e2-f14eb6e7ba25.png)
 
 
