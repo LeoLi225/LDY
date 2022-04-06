@@ -2,7 +2,7 @@
 layout: default
 title: Task 1 - Server Creation
 nav_order: 16
-has_children: false
+has_children: True
 permalink: /docs/task1
 ---
 
