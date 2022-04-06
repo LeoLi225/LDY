@@ -25,21 +25,21 @@ Upon logging into Discord after creating a new account, you will be prompted wit
 
 **2.** Upon choosing an option, Discord will be prompt for more information.
 
-    ![Following_prompt](https://user-images.githubusercontent.com/65834553/161902338-3d8e05a6-fd89-4ce2-a6a1-36df3b7e5595.jpg "NextStep")
+   ![Following_prompt](https://user-images.githubusercontent.com/65834553/161902338-3d8e05a6-fd89-4ce2-a6a1-36df3b7e5595.jpg "NextStep")
   
-**3. **After selection one of these options. There will be one more step before the server is created.
+**3.** After selection one of these options. There will be one more step before the server is created.
   
-    ![furtherCustomization](https://user-images.githubusercontent.com/65834553/161903342-d61c9b48-6823-41b7-b739-b9d8f1790ebf.jpg "More customization")
+   ![furtherCustomization](https://user-images.githubusercontent.com/65834553/161903342-d61c9b48-6823-41b7-b739-b9d8f1790ebf.jpg "More customization")
     
-**4. ** If you wish to set an image to your server. Click on select on the upload area with the camera icon.
+**4.** If you wish to set an image to your server. Click on select on the upload area with the camera icon.
     
-    ![Upload Photo](https://user-images.githubusercontent.com/65834553/161905195-69665fd6-bf93-4db5-b5f5-7cd679cf4f39.jpg "Upload a photo")
+   ![Upload Photo](https://user-images.githubusercontent.com/65834553/161905195-69665fd6-bf93-4db5-b5f5-7cd679cf4f39.jpg "Upload a photo")
     
-5.  Upon clicking the upload. It will then prompt you to select a file from your Computer.
+**5.** Upon clicking the upload. It will then prompt you to select a file from your Computer.
     
-    ![selectimagev1](https://user-images.githubusercontent.com/65834553/161908517-b4d041dc-6236-47e6-9c33-602d07160d4f.jpg "Select Image")
+   ![selectimagev1](https://user-images.githubusercontent.com/65834553/161908517-b4d041dc-6236-47e6-9c33-602d07160d4f.jpg "Select Image")
     
-6.  Once selecting your image. The upload photo section will turn into the image you have selected.
+**6.**  Once selecting your image. The upload photo section will turn into the image you have selected.
     
   > Congratulations you have successfully uploaded an image to your server. 😃
   >  ![Upload Photo](https://user-images.githubusercontent.com/65834553/161909264-e84b6308-16f3-46c7-b453-478c6322497a.jpg)  ![happyfacenow](https://user-images.githubusercontent.com/65834553/161909273-b5c7e8f7-b534-4ddb-a9b5-0c4b4bdc792d.jpg "Add Logo Success!")
