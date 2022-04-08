@@ -7,7 +7,7 @@ permalink: docs/Task 3 - Create your own Discord Bot using Python
 ---
 
 
-# Introduction
+# **Introduction**
 
 > Discord is a very popular chat program.
 > If you use Discord, you can see various bots.
@@ -21,13 +21,13 @@ permalink: docs/Task 3 - Create your own Discord Bot using Python
 
 *To get you started, lets build a simple discord bot with python. This bot will be able to respond to specific chat commands.*
 
-# Requirement
+# **Requirement**
 
 > To add a bot on a server. You require Administrative privileges for the server.
 > 
 > Installing Pycharm (IDE) & Python for programming
 
-# Intended Readers
+# **Intended Readers**
 
 > This document is intended for readers who have completed Python and PyCharm installations.
 > The reader may have basic programming skills.
