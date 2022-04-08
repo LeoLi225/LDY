@@ -85,9 +85,15 @@ nav_order: 17
 
 ##### 6. When a member selects an emoji, the member's role will be assigned to this group.
 ![role](https://user-images.githubusercontent.com/90579221/161905084-aaf56d10-7449-4ad2-81e0-30395d8a2af8.png)
+---
+# **Conclusion**
+
+#### Part one: You can learn how to ensure that you have administrative authorization for your server and add a simple disccord bot.
+
+#### Part two: Here is a usage example and specification of the MEE6 discord bot.
 
 
-#### As above, you can easily add and use a Discord bot by learning the commands to use the Discord bot you want to use and using the bot.
+#### As above, you can easily add and use a Discord bot by learning the commands to use the Discord bot you want to use and using the bot. 
 
 
 
