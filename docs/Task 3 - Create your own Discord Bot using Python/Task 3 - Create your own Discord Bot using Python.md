@@ -11,15 +11,15 @@ permalink: docs/Task 3 - Create your own Discord Bot using Python
 
 > Discord is a very popular chat program.
 > If you use Discord, you can see various bots.
-
+>
 > A game bot that makes chatting fun, a music bot that plays music on a voice channel, etc.
-
+>
 > And, you can make your own bot to use Discord more efficiently.
-
+>
 > So, let's implement a Discord bot together.
 > Discord bots can be created using multiple languages such as Python and Node.js.
 
-To get you started, lets build a simple discord bot with python. This bot will be able to respond to specific chat commands.
+*To get you started, lets build a simple discord bot with python. This bot will be able to respond to specific chat commands.*
 
 # Requirement
 
