@@ -93,7 +93,7 @@ nav_order: 17
 #### Part two: Here is a usage example and specification of the MEE6 discord bot.
 
 
-#### As above, you can easily add and use a Discord bot by learning the commands to use the Discord bot you want to use and using the bot. 
+#### As above, you can easily add and use a Discord bot by learning the commands to use the Discord bot you want to use and using the bot. :smiley:
 
 
 
