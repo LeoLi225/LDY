@@ -14,5 +14,5 @@ nav_order: 21
 | **Pycharm** | An integrated development envrionment for python developed by JetBrains.|
 | **Python** | A programming language. |
 | **Role** | A role is similar to ranks in discord. Where a specific role will grant the user different privileges on a server. |
-| **Server** | A computer or system that provides resources, data, services, or programs to other computers, known as clients, over a network.|
+| **Server** | Spaces used by users to create communities.|
 | **Token** | A string of characters that grants the user access to begin creating Discord Bot's on Discord's server. |
