@@ -24,6 +24,7 @@ permalink: docs/Task 3 - Create your own Discord Bot using Python
 # Requirement
 
 > To add a bot on a server. You require Administrative privileges for the server.
+> Pycharm (IDE) & Python
 
 # Intended Readers
 
