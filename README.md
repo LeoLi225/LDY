@@ -31,6 +31,19 @@ Though we were exposed to Markdown in other classes, it was to change one or two
 
 As developers writing user guides may just be a part of work routine. Developers may also write documentation for their peers and in the workplace. Being able to write clear and concisely is a valuable asset to have in the workplace.
 
-We have attempted to maximize readability in our guide by breaking down a complicated procedure into bite size easy to digest pieces. 
+We have attempted to maximize readability in our guide by breaking down a complicated procedure into bite size easy to digest pieces. To highlight certain areas to our reader we have added the following icons:
 
+A :smiley: indicate a user has successfully followed the steps given.
+A :bulb: to indicate that the following information is important. 
+A ❗ indicates information that the user does not want to ignore. If ignored it could be catastrophic.
+
+## Conclusion
+
+This user guide challenged our ability of communicating our knowledge of a software to a beginner. It was difficult to clearly state each task a reader had to do. We had to explicitly state each step. Leaving no step to be implied.
+
+This assignment gave us the opportunity to approach a problem through the eyes of a beginner. It challenged us to consider what problems may a beginner face when they attempt to complete a specific task.
+
+This assignment tested our ability to communicate. It was the first time we have worked as a trio. As a group, we continuously communicated with one another, especially when we faced difficulty. Through communication with each other, we felt less alone not only in this assignment but in the program in general.
+
+Thank you using our Discord customization user guide. We hope this user guide was able to help you accomplish the task you wish to complete.
 This document was built on: <a href="https://github.com/pmarsceill/just-the-docs"><h2>Just the Docs</h2></a>
