@@ -6,21 +6,23 @@ nav_order: 17
 
 # **Task 2 - How to Add/Use Discord Bot**
 
->Discord is a voice chat program with many users worldwide. In addition to voice chat, you can use various functions such as multimedia and text chat, and recently, with the advent of a system called “Discord bot”, you can make Discord more colorful.
+>Discord is a voice chat program with many users worldwide. In addition to voice chat, you can use various functions such as multimedia and text chat. Recently, with the addition of a system called a “Discord bot”, you can make your Discord experience more fun.
 >
->Discord bots come in a variety of bots. There are many different types of bots, such as serving as an administrator in the server to manage the server, adding mini-games to the server.
+>There are a variety of Discord bots. Some of them serve as an administrator in the server to manage the server. others bring some fun by adding mini-games to the server.
 >
->In this part, we will learn how to add a useful Discord administrator bot and how to use the Discord bot in general.
+>In this part, we will learn how to add a useful Discord administrator bot and how to use some of the general functions of the bot.
 ---
 ## **1. Create a Discord Administrator Bot**
 
 ### **1-1. Create Discord Server**
-##### First, you need a server with administrator privileges to add the Discord bot. Click Add Server. If you have an already created server, you can start from [1-4](https://leoli225.github.io/LDY/docs/Leo/#strong1-4-discord-bot-homepagestrong).
+##### First, you need a server with administrator privileges to add the Discord bot. Click Add Server.
+:bulb: If you have an already created server, you can start from [1-4](https://leoli225.github.io/LDY/docs/Leo/#strong1-4-discord-bot-homepagestrong).
+
 ![homepage](https://user-images.githubusercontent.com/90579221/161686582-252cb412-3047-4820-95e2-f14eb6e7ba25.png)
 
 
 ### **1-2. Server cutomization**
-##### 1. You can set by uploading a representative image of the Discord server.
+##### 1. Start by by uploading a representative image of the Discord server.
 ##### 2. Enter the name of your Discord server.
 ##### 3. Click Create to create a Discord Server.
 ![server1](https://user-images.githubusercontent.com/90579221/161690649-adccba7c-5bda-4000-aab3-cb49b5b4b849.png)
@@ -38,26 +40,26 @@ nav_order: 17
 
 
 ### **1-5. Connect to Discord server**
-##### As an example, let's add the most famous MEE6 bot among Discord bots. Click Add to Server.
+##### As an example, let's add the famous MEE6 bot. Click Add to Server.
 ![3](https://user-images.githubusercontent.com/90579221/161699839-03633047-7ac1-4303-8d3e-a07c3c1d6b38.png)
 
 
 ### **1-6. Grant bot admin privileges**
-##### First, select my Discord server to which you want to add the bot and click the Continue button.
+##### First, select the Discord server you want to add the bot and click the Continue button.
 ##### You can successfully add the Discord bot to the server by checking to enable admin privileges and clicking OK.
 ![1](https://user-images.githubusercontent.com/90579221/161699990-8c8f568e-b003-4eb9-a8ff-78f7a2778353.png)
 ![2](https://user-images.githubusercontent.com/90579221/161699996-5118bd6f-2319-412a-b741-daa9cdcdb816.png)
 
 
 ### **1-7. Check the added Discord bot**
-##### See which Discord chat room participants are online. If the bot has been added, you have successfully added the bot to the server.
+##### See which Discord chat room participants are online. If you're able to see that the bot is online, you have successfully added the bot to the server.
 ![4](https://user-images.githubusercontent.com/90579221/161700554-35cb7be9-7007-4a30-aef9-c92299fcd177.png)
 
 ---
 ## **2. How to use the Discord Bot**
 
 ### **2-1. Check Discord Bot Commands**
-##### To use the basic Discord bot, just enter the '/' command. The below image is a command of MEE6, a Discord bot, and the commands of the Discord bot may be different. 
+##### To use the basic Discord bot, just enter the '/' command. The below image is a command of MEE6, a Discord bot, and the commands of Discord bots may be different. 
 ![1](https://user-images.githubusercontent.com/90579221/161701402-51eaa246-a820-4db1-894e-14a366eea4f2.png)
 >[More commands](https://www.streamscheme.com/discord-commands/)
 
@@ -68,7 +70,7 @@ nav_order: 17
 
 ### **2-3. More fun commands**
 ##### Go to [MEE6 website page](https://mee6.xyz/dashboard/956291310040539177). We can see that a lot of features for our bot can be set up here and implemented in our server. Below we show how to create reaction roles in our server. 
-##### 1. Firstly, find "Reaction Roles" in the left navbar and click the "+" button to add reaction roles to our server members.
+##### 1. First, find "Reaction Roles" in the left navbar and click the "+" button to add reaction roles to our server members.
 ![2](https://user-images.githubusercontent.com/90579221/161902556-0ac99589-254b-4aec-b1a1-9c1763c71af7.png)
 
 ##### 2. After that, enter the title, messages, color, author and photo that you want to display.
@@ -80,7 +82,7 @@ nav_order: 17
 ##### 4. When you have finished all the settings, choose the channel you want to send and click the save button. 
 ![5](https://user-images.githubusercontent.com/90579221/162061233-3c7982fd-6d8e-49d7-a0d3-533602fac1f3.png)
 
-##### 5. Finnaly, the question will be automatically generated in the channel.
+##### 5. Finally, the question will be automatically generated in the channel.
 ![question](https://user-images.githubusercontent.com/90579221/161904725-61f783db-5d86-4ab3-86ef-d88eb9339abe.png)
 
 ##### 6. When a member selects an emoji, the member's role will be assigned to this group.
@@ -88,7 +90,7 @@ nav_order: 17
 ---
 # **Conclusion**
 
-#### Part one: You can learn how to ensure that you have administrative authorization for your server and add a simple disccord bot.
+#### Part one: You have learned how to add a simple disccord bot and check if you have administrative authorization for your server.
 
 #### Part two: Here is a usage example and specification of the MEE6 discord bot.
 
