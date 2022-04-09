@@ -46,4 +46,5 @@ This assignment gave us the opportunity to approach a problem through the eyes o
 This assignment tested our ability to communicate. It was the first time we have worked as a trio. As a group, we continuously communicated with one another, especially when we faced difficulty. Through communication with each other, we felt less alone not only in this assignment but in the program in general.
 
 Thank you using our Discord customization user guide. We hope this user guide was able to help you accomplish the task you wish to complete.
+
 This document was built on: <a href="https://github.com/pmarsceill/just-the-docs"><h2>Just the Docs</h2></a>
