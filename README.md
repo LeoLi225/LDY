@@ -1,85 +1,28 @@
-<p align="right">
-    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/just-the-docs/just-the-docs/actions?query=workflow%3A%22main+branch+CI%22"><img src="https://github.com/just-the-docs/just-the-docs/workflows/main%20branch%20CI/badge.svg" alt="Build status"></a>
-</p>
-<br><br>
-<p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://just-the-docs.github.io/just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
-</p>
+# Overview of Discord Server Customization Guide
 
-![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
+Hello user, our guide on Discord server customization is meant to provide you with general guideline of creating and customizing your first server.
 
-## Installation
+The things we want to teach you with this site include the following:
+* creating a server
+* adding custom emoji's on your server
+* adding and using existing Discord bots onto a server
+* creating your first Discord bot.
 
-### via GitHub Pages remote theme
 
-The quickiest way to use Just The Docs is to use GitHub pages [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/) feature in your `config.yml` file:
+## How We Collaborated Together
 
-```yaml
-remote_theme: just-the-docs/just-the-docs
-```
-### via RubyGems:
+At the beginning of this assignment, we were collaborating with each other during classtime. We used this time in class to brainstorm ideas and to flush out the details of our guide.
 
-Alternatively you can install it as a Ruby Gem.
+As a group we created a separate Discord server to communicate with one another. This Discord server also served as a place where we could share helpful tips and tricks in creating a user guide.
 
-Add this line to your Jekyll site's Gemfile:
+We used git and github to collaborate on this user guide. We each created a folder to keep our work separate to avoid conflicts with one another.
 
-```ruby
-gem "just-the-docs"
-```
+## How We Created Our Guide
 
-And add this line to your Jekyll site's `_config.yml`:
+To create our guide, we used various sources of documentation and applications. Our inspiration for this guide is our BCIT Set Discord server that utilizes custom emojis and Discord bots to bring more fun to the BCIT experience.
 
-```yaml
-theme: just-the-docs
-```
+### Using Markdown
 
-And then execute:
 
-    $ bundle
 
-Or install it yourself as:
-
-    $ gem install just-the-docs
-
-Alternatively, you can run it inside Docker while developing your site
-
-    $ docker-compose up
-
-## Usage
-
-[View the documentation](https://just-the-docs.github.io/just-the-docs/) for usage information.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/just-the-docs/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-### Submitting code changes:
-
-- Open a [Pull Request](https://github.com/just-the-docs/just-the-docs/pulls)
-- Ensure all CI tests pass
-- Await code review
-- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
-
-### Design and development principles of this theme:
-
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-A modern [devcontainer configuration](https://code.visualstudio.com/docs/remote/containers) for VSCode is included.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+This document was built on: <a href="https://github.com/pmarsceill/just-the-docs"><h2>Just the Docs</h2></a>
