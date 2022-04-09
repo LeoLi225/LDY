@@ -34,7 +34,9 @@ As developers writing user guides may just be a part of work routine. Developers
 We have attempted to maximize readability in our guide by breaking down a complicated procedure into bite size easy to digest pieces. To highlight certain areas to our reader we have added the following icons:
 
 A :smiley: indicate a user has successfully followed the steps given.
+
 A :bulb: to indicate that the following information is important. 
+
 A ❗ indicates information that the user does not want to ignore. If ignored it could be catastrophic.
 
 ## Conclusion
