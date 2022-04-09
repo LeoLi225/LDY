@@ -23,7 +23,7 @@ To create our guide, we used various sources of documentation and applications. 
 
 We were introduced to markdown as a simple yet effective method in creating a guide.
 
-Though we were exposed to Markdown in other classes, it was to change one or two lines of text to input our name and student number. To write an entire guide with markdown required some trial and error to understand the syntax and formatting.
+Our prior knowledge to Markdown was limited. We only edited Markdown documents to input our name and student id. To write an entire guide with markdown required some trial and error to understand the syntax and formatting.
 
 ### Learning Best Practices for Web Writing
 
