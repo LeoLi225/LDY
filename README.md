@@ -23,6 +23,14 @@ To create our guide, we used various sources of documentation and applications. 
 
 ### Using Markdown
 
+We were introduced to markdown as a simple yet effective method in creating a guide.
 
+Though we were exposed to Markdown in other classes, it was to change one or two lines of text to input our name and student number. To write an entire guide with markdown required some trial and error to understand the syntax and formatting.
+
+### Learning Best Practices for Web Writing
+
+As developers writing user guides may just be a part of work routine. Developers may also write documentation for their peers and in the workplace. Being able to write clear and concisely is a valuable asset to have in the workplace.
+
+We have attempted to maximize readability in our guide by breaking down a complicated procedure into bite size easy to digest pieces. 
 
 This document was built on: <a href="https://github.com/pmarsceill/just-the-docs"><h2>Just the Docs</h2></a>
