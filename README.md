@@ -11,13 +11,13 @@ The aim of this document is to provide the user with direction with the followin
 
 ## How We Collaborated Together
 
-At the beginning of this assignment, we were collaborating with each other during classtime. We used this time in class to brainstorm ideas and to flush out the details of our guide. To continue communication after class, we created a private Discord server to communicate with one another. This Discord server also served as a place where we could share helpful tips and tricks we found with Markdown.
+At the beginning of this assignment, we were collaborating with each other during classtime. We used this time in class to brainstorm ideas and to flush out the details of our guide. To continue communication after class, we created a private Discord server to communicate with one another. This Discord server also served as a place to share helpful tips and tricks we found with Markdown.
 
 We used git and github to collaborate on this user guide. We each created a folder to keep our work separate to avoid conflicts with one another.
 
 ## How We Created Our Guide
 
-To create our guide, we used various sources of documentation and applications. Our inspiration for this guide is our BCIT Set Discord server that utilizes custom emojis and Discord bots to bring more fun to the BCIT experience.
+To create our guide, we used various sources of documentation and applications. We found inspiration for this guide through our BCIT Set Discord Server. Someone had created custom emoji and added Discord bots that brought great joy to the server.
 
 ### Using Markdown
 
