@@ -29,7 +29,7 @@ Our prior knowledge to Markdown was limited. We only edited Markdown documents t
 
 As developers writing user guides may just be a part of work routine. Developers may also write documentation for their peers and in the workplace. Being able to write clear and concisely is a valuable asset to have in the workplace.
 
-We have attempted to maximize readability in our guide by breaking down a complicated procedure into bite size easy to digest pieces. To highlight certain areas to our reader we have added the following icons:
+We have attempted to maximize readability in our guide by breaking down complicated procedures into bite sized easy to digest pieces. To highlight certain areas to our reader we have added the following icons:
 
 A :smiley: indicate a user has successfully followed the steps given.
 
