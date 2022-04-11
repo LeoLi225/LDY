@@ -43,7 +43,7 @@ This user guide challenged our ability of communicating our knowledge of a softw
 
 This assignment gave us the opportunity to approach a problem through the eyes of a beginner. It challenged us to consider what problems may a beginner face when they attempt to complete a specific task.
 
-This assignment tested our ability to communicate. It was the first time we have worked as a trio. As a group, we continuously communicated with one another, especially when we faced difficulty. Through communication with each other, we felt less alone not only in this assignment but in the program in general.
+This assignment tested our ability to communicate. It was the first time we have worked as a trio. As a group, we continuously communicated with one another, even more so when we faced obstacles. Through communicating with each other, we felt less alone not only in this assignment but in the program as a whole.
 
 Thank you using our Discord customization user guide. We hope this user guide was able to help you accomplish the task you wish to complete.
 
