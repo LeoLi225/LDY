@@ -11,7 +11,7 @@ The aim of this document is to provide the user with direction with the followin
 
 ## How We Collaborated Together
 
-At the beginning of this assignment, we were collaborating with each other during classtime. We used this time in class to brainstorm ideas and to flush out the details of our guide. To continue communication after class, we created a private Discord server to communicate with one another. This Discord server also served as a place to share helpful tips and tricks we found with Markdown.
+At the beginning of this assignment, we were collaborating with each other during classtime. We used this time in class to brainstorm ideas and to flush out the details of our guide. We continued to communicate outside of class as well. We did this by creating a private Discord server to communicate with one another. This Discord server also served as a place to share helpful tips and tricks on Markdown documentation.
 
 We used git and github to collaborate on this user guide. We each created a folder to keep our work separate to avoid conflicts with one another.
 
