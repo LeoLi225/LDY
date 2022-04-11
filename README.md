@@ -17,7 +17,7 @@ We used git and github to collaborate on this user guide. We each created a fold
 
 ## How We Created Our Guide
 
-To create our guide, we used various sources of documentation and applications. We found inspiration for this guide through our BCIT Set Discord Server. Someone had created custom emoji and added Discord bots that brought great joy to the server.
+To create our guide, we used various sources of documentation and applications. We found inspiration for this guide through our BCIT Set Discord Server. Someone had created custom emojis and added Discord bots. We found that these additions brought great joy to the server.
 
 ### Using Markdown
 
